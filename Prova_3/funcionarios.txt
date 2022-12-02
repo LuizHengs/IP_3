@@ -1,0 +1,5 @@
+ linha	numFunc	nível	departamento	próximo
+0	234	43	2		1
+1	456	654	2		2
+2	678	876	2		3
+3	890	98	4		-1
