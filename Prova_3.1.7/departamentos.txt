@@ -1,0 +1,5 @@
+ codDepto	nomeDepto	Início
+1		vendas		0
+2		contabilidade	1
+3		estoque		2
+4		entrega		6

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Prova_3.1.5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Prova_3.1.5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Prova_3.1.5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../IP_AV3.pdf" />
+		<Unit filename="../Mudanca_Departamento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../admitir_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../admitir_1.h" />
+		<Unit filename="../departamentos.dat" />
+		<Unit filename="../departamentos.txt" />
+		<Unit filename="../departamentos_b.txt" />
+		<Unit filename="../funcionarios.dat" />
+		<Unit filename="../funcionarios.txt" />
+		<Unit filename="../funcionarios_b.txt" />
+		<Unit filename="../main_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../mudanca_departamento.h" />
+		<Unit filename="../teste" />
+		<Unit filename="../top_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../top_1.c.save-failed" />
+		<Unit filename="../top_1.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1670343470 source:f:\ip_2022_1\c\prova_3.1.5\admitir_1.c
+	"admitir_1.h"
+
+1670016198 f:\ip_2022_1\c\prova_3.1.5\admitir_1.h
+	"top_1.h"
+
+1670344112 f:\ip_2022_1\c\prova_3.1.5\top_1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<malloc.h>
+	<windows.h>
+	<unistd.h>
+
+1670344522 source:f:\ip_2022_1\c\prova_3.1.5\main_1.c
+	"admitir_1.h"
+	"top_1.h"
+	"mudanca_departamento.h"
+
+1670336004 f:\ip_2022_1\c\prova_3.1.5\mudanca_departamento.h
+	"top_1.h"
+
+1670344254 source:f:\ip_2022_1\c\prova_3.1.5\mudanca_departamento.c
+	"mudanca_departamento.h"
+
+1670344496 source:f:\ip_2022_1\c\prova_3.1.5\top_1.c
+	"top_1.h"
+

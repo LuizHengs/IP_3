@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1670337570 source:d:\ip_2022_1\c\prova_3.1.4\admitir_1.c
+	"admitir_1.h"
+
+1670016198 d:\ip_2022_1\c\prova_3.1.4\admitir_1.h
+	"top_1.h"
+
+1670337692 d:\ip_2022_1\c\prova_3.1.4\top_1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<malloc.h>
+	<windows.h>
+	<unistd.h>
+
+1670095794 source:d:\ip_2022_1\c\prova_3.1.4\main_1.c
+	"admitir_1.h"
+	"top_1.h"
+
+1670337708 source:d:\ip_2022_1\c\prova_3.1.4\top_1.c
+	"top_1.h"
+
